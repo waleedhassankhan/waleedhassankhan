@@ -1,11 +1,9 @@
 ![Logo](https://github.com/waleedhassankhan/waleedhassankhan/blob/main/Data%20Scientist%20(1).png)
 
-<h1 align="center">Hi 👋, I'm Waleed Hassan Khan</h1>
+<h1 align="center">Hi 👋, I'm AI Engineer</h1>
 <h3 align="center">Exploring the Creative Power of Generative AI</h3>
 
 <img align="right" alt="AI" width="400" src="https://images.wsj.net/im-568211">
-
-- 🌱 I’m currently Doing BSAI **Generative AI**
 
 - 📫 How to reach me **hwaleed741@gmail.com**
 
