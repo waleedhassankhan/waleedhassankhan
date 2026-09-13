@@ -238,8 +238,9 @@ Application
 Testing
   ↓
 Deployment
+```
 
-## Languages and Tools
+<h2 align="left">Languages and Tools</h2>
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/></a>
@@ -249,17 +250,21 @@ Deployment
 <a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40" alt="Redis"/></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/></a>
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/src/images/icons/Social/git.svg" width="40" height="40" alt="Git"/></a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/></a>
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch"/></a>
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40" height="40" alt="OpenCV"/></a>
 </p>
 
-GitHub Stats
+<h2 align="left">GitHub Stats</h2>
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=waleedhassankhan&show_icons=true&locale=en" alt="Waleed's GitHub stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=waleedhassankhan&layout=compact&locale=en" alt="Top languages" />
 </p>
 
-Building AI systems that connect models, data, automation and real-world applications.
+---
+
+<p align="center">
+  Building AI systems that connect models, data, automation and real-world applications.
+</p>
