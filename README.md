@@ -1,20 +1,240 @@
 ![Logo](https://github.com/waleedhassankhan/waleedhassankhan/blob/main/Data%20Scientist%20(1).png)
 
-<h1 align="center">Hi 👋, I'm AI Engineer</h1>
-<h3 align="center">Exploring the Creative Power of Generative AI</h3>
+<h1 align="center">Hi 👋, I'm Waleed</h1>
+<h3 align="center">AI Engineer | AI Agents | LLMs | Python | Financial & Trading Systems</h3>
+
+<p align="center">
+  Building AI systems, intelligent automation, financial intelligence platforms and data-driven applications.
+</p>
 
 <img align="right" alt="AI" width="400" src="https://images.wsj.net/im-568211">
 
 - 📫 How to reach me **hwaleed741@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://linkedin.com/in/waleedhassankhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="waleedhassankhan" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/waleedhassankhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="waleedhassankhan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/waleedbloch111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="waleedbloch111" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/waleedhassankhan" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="waleedhassankhan" height="30" width="40" />
+</a>
+
+<a href="https://www.hackerrank.com/waleedhassankhan" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="waleedhassankhan" height="30" width="40" />
+</a>
+
+<a href="https://www.leetcode.com/waleedbloch111" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="waleedbloch111" height="30" width="40" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=waleedhassankhan&show_icons=true&locale=en&layout=compact" alt="waleedhassankhan" /></p>
+<h2 align="left">About Me</h2>
+
+AI Engineer with 4+ years of experience building AI and software systems for startups and businesses.
+
+My work focuses on turning ideas, prototypes and complex data problems into practical working systems. I work across AI agents, LLM applications, RAG, automation, Python backend systems, financial intelligence, trading analysis and Web3.
+
+Areas of focus include:
+
+- AI Agents and LLM applications
+- Retrieval-Augmented Generation (RAG)
+- AI Automation and workflow systems
+- OpenAI integrations and tool calling
+- Conversational AI and chatbots
+- Financial intelligence and market-data systems
+- Trading analysis and market-structure systems
+- Backtesting and trading logic
+- Ethereum and Web3 systems
+- Data extraction and processing pipelines
+- Python backend services and APIs
+- Real-time data processing
+
+---
+
+<h2 align="left">AI & Automation</h2>
+
+- AI Agents
+- Large Language Model Applications
+- Retrieval-Augmented Generation
+- Knowledge Bases
+- AI Assistants
+- Tool Calling
+- OpenAI Integrations
+- Conversational AI
+- Document Intelligence
+- AI-powered Automation
+- Data Extraction and Analysis
+
+---
+
+<h2 align="left">Financial & Trading Systems</h2>
+
+- Financial Intelligence Platforms
+- Market Data Pipelines
+- Technical Analysis Systems
+- Market Structure Analysis
+- Multi-Timeframe Analysis
+- Trend and Structure Detection
+- Liquidity Analysis
+- Trading Signals
+- Trading Strategy Research
+- Backtesting Systems
+- Automated Trading Logic
+
+---
+
+<h2 align="left">Web3 & Blockchain</h2>
+
+- Ethereum Transaction Monitoring
+- Real-Time Mempool Monitoring
+- Transaction Classification
+- Smart Contract Analysis
+- Contract and Function Detection
+- Protocol Detection
+- Blockchain Data Processing
+- Web3 Automation
+
+---
+
+<h2 align="left">Multimodal & Data Intelligence</h2>
+
+- Image Analysis
+- Video Analysis
+- Document Processing
+- Text Analysis
+- Advertising Intelligence
+- Competitor Research
+- Automated Data Extraction
+- Data Classification
+- AI-powered Research
+- Computer Vision
+
+---
+
+<h2 align="left">Featured Projects</h2>
+
+<h3>Financial Intelligence Platform</h3>
+
+A financial intelligence and market-analysis platform designed to process market data and generate structured intelligence.
+
+Work includes:
+
+- Market data processing
+- Technical indicators
+- Market structure analysis
+- Swing detection
+- Trend detection
+- BOS and CHoCH detection
+- Liquidity analysis
+- Equal highs and lows
+- Liquidity sweeps
+- Supply and demand
+- Order blocks
+- Fair value gaps
+- Premium and discount analysis
+- Multi-timeframe analysis
+- Forecasting and scenario analysis
+- Backtesting and validation
+
+<h3>Ethereum Mempool & Transaction Intelligence</h3>
+
+Real-time Ethereum transaction monitoring and classification system.
+
+Work includes:
+
+- Pending transaction monitoring
+- WebSocket-based data ingestion
+- Transaction classification
+- Smart contract detection
+- Function selector identification
+- Protocol detection
+- Real-time transaction analysis
+- Web3.py
+- Ethereum infrastructure integration
+
+<h3>AI Advertising Intelligence</h3>
+
+AI-powered advertising intelligence platform designed to collect and analyze large volumes of advertising and multimedia data and turn it into structured marketing intelligence.
+
+Work included:
+
+- Image, video and text processing
+- Automated advertisement analysis
+- LLM-based attribute extraction
+- Marketing intelligence
+- Brand and campaign analysis
+- Automated recommendations
+- Data pipelines
+- Parallel processing
+- Backend services
+- Business intelligence dashboards
+
+---
+
+<h2 align="left">Backend & Data Engineering</h2>
+
+- Python
+- FastAPI
+- Flask
+- REST APIs
+- Async Python
+- API Integration
+- PostgreSQL
+- Redis
+- AWS
+- Amazon S3
+- Docker
+- Linux
+- Git
+- GitHub
+- Data Processing
+- Data Engineering
+- Data Pipelines
+- Web Scraping
+
+---
+
+<h2 align="left">AI & Machine Learning</h2>
+
+- OpenAI
+- Large Language Models
+- AI Agents
+- RAG
+- LangChain
+- NLP
+- Computer Vision
+- Multimodal AI
+- Prompt Engineering
+- Tool Calling
+- PyTorch
+- Machine Learning
+
+---
+
+<h2 align="left">Engineering Approach</h2>
+
+Not every problem requires AI.
+
+The approach is to understand the problem first, then choose the architecture, models, APIs, data processing and automation around the actual requirements.
+
+A typical system may involve:
+
+```text
+Data
+  ↓
+Processing
+  ↓
+AI / LLM
+  ↓
+Retrieval
+  ↓
+Tools & APIs
+  ↓
+Backend
+  ↓
+Application
+  ↓
+Testing
+  ↓
+Deployment
