@@ -256,12 +256,12 @@ Deployment
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40" height="40" alt="OpenCV"/></a>
 </p>
 
-<h2 align="left">GitHub Stats</h2>
+<!-- <h2 align="left">GitHub Stats</h2>
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=waleedhassankhan&show_icons=true&locale=en" alt="Waleed's GitHub stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=waleedhassankhan&layout=compact&locale=en" alt="Top languages" />
-</p>
+</p> -->
 
 ---
 
